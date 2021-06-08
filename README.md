@@ -1,5 +1,5 @@
 #       St
-My build of suckless [st](https://st.suckless.org/)
+My build of [st](https://st.suckless.org/)
 
 ##       Patches
 - St clipboard
